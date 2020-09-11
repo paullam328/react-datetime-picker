@@ -2,9 +2,9 @@
 ) ![dev dependencies](https://img.shields.io/david/dev/wojtekmaj/react-datetime-picker.svg
 ) [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 
-# React-DateTime-Picker
+# React-DateTime-Picker (For TypeScript users)
 
-A datetime picker for your React app.
+A typed datetime picker for your React TypeScript app.
 
 * Supports virtually any language
 * No moment.js needed
